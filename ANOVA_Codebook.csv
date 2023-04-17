@@ -1,0 +1,19 @@
+Variable,Explanation
+EmployeeID,Individual identification numbers
+State,Which state the employee works in
+DCQ1_2020,Year 2020 Diversity Climate Question 1
+DCQ2_2020,Year 2020 Diversity Climate Question 2
+DCQ3_2020,Year 2020 Diversity Climate Question 3
+DCQ4_2020,Year 2020 Diversity Climate Question 4
+DCQ5_2020,Year 2020 Diversity Climate Question 5
+DCQ1_2022,Year 2022 Diversity Climate Question 1
+DCQ2_2022,Year 2022 Diversity Climate Question 2
+DCQ3_2022,Year 2022 Diversity Climate Question 3
+DCQ4_2022,Year 2022 Diversity Climate Question 4
+DCQ5_2022,Year 2022 Diversity Climate Question 5
+Engage1,Year 2022 Engagement Survey Question 1
+Engage2,Year 2022 Engagement Survey Question 2
+Engage3,Year 2022 Engagement Survey Question 3
+Engage4,Year 2022 Engagement Survey Question 4
+Engage5,Year 2022 Engagement Survey Question 5
+Revenue,Sales revenue per employee (in thousands of dollars)

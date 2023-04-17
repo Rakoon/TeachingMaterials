@@ -1,0 +1,30 @@
+Variable,Value,Label,Description
+WorkerID,1-1493,-,Identifier number of workers
+Sex,1,Female,Worker's sex
+,2,Male,
+Age,-,-,Age in years
+Tenure,-,,# of years a worker has been with the current company
+JobGrade,1,Clerical / Officer,Worker's job level
+,2,Administrator / Assistant,
+,3,Graduate / Trainee Consultant,
+,4,Consultant,
+,5,Senior Consultant,
+,6,Managing Consultant,
+,7,Principal Consultant,
+,8,Partner,
+WorkerPerf,5,Excellent,Worker's job performance
+,4,,
+,3,,
+,2,,
+,1,Poor,
+Turnover,0,Stayer,Whether the employee has left the company
+,1,Leaver,
+Division,-,-,The work unit identifier (#1 through #12)
+MgrID,1-130,-,Identifier number of managers
+MgrSex,1,Female,Supervisor's sex
+,2,Male,
+MgrPerf,5,Excellent,Supervisor's job performance
+,4,,
+,3,,
+,2,,
+,1,Poor,
